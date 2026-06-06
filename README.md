@@ -52,8 +52,7 @@ python app.py
 - `engine.py` — recommendation engine (counter / synergy / flexible axes).
 - `app.py` — PySide6 GUI.
 - `recognize.py`, `build_templates.py`, `calibrate.py`, `download_portraits.py` — screen auto-reading.
-- `gsi_probe.py` — diagnostic Game State Integration probe.
-- `peek.py` — quick inspection of the local data caches.
+
 
 ## Notes
 - The `.env` file (your token) and the generated `data/` caches are gitignored.
