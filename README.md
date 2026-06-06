@@ -57,5 +57,4 @@ python app.py
 ## Notes
 - The `.env` file (your token) and the generated `data/` caches are gitignored.
 - Run `update_data.py` after fresh-cloning to regenerate the data caches locally.
-EOF
-echo done
+
